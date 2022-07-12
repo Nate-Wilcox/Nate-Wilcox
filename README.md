@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nathaniel Wilcox
+- 👋 Hi, I’m Nathaniel Wilcox, PLease call me Nate!
 - 👀 I’m interested in frontend software development
 - 🌱 I’m currently learning data structures & alorithms as well as mathematics for computer science. 
       -- I am currently studying at Seattle Pacific University
